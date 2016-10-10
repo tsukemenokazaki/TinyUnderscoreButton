@@ -3,6 +3,8 @@
 TinyUnderscoreButton is a tiny UIButton subclass that adds undersocere to its text.
 The aim of this simple project is to demonstrate how to add simple underscore efect into your button.
 
+![Screen Shot](https://github.com/tsukemenokazaki/TinyUnderscoreButton/blob/master/ScreenShot01.png)
+
 # Environment
 
 * Xcode 7.3
